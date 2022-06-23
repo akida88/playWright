@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "run:test":"playwright test linkedin.spec.js --headed"
+    "run:test":"playwright test linkedin.spec.js --headed",
+    "run:headless":"playwright test linkedin.spec.js"
   },
   "keywords": [],
   "author": "",
