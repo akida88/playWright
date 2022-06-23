@@ -1,5 +1,8 @@
 # playWright
 
+The tests include opening LinkedIn, using the search field and opening a job offer in LinkedIn.
+
+
 Run tests in headed browsers use the script:
    npm run run:test
 
